@@ -1,0 +1,10 @@
+#show-contact {
+  display: none;
+}
+.contact {
+  cursor: pointer;
+  color: maroon;
+}
+.contact:hover {
+  text-decoration: underline;
+}
